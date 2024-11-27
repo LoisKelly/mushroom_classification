@@ -4,17 +4,17 @@ This project explores using decision tress for classificaiton.
 
 You can read the full break down and analysis of this project in the 'write_up' file. 
 
-Dataset: https://www.kaggle.com/datasets/uciml/mushroom-classification ![image](https://github.com/user-attachments/assets/d461dcfb-5e6d-4a66-afdf-9f01e0a82ef8)
+**Dataset:** https://www.kaggle.com/datasets/uciml/mushroom-classification ![image](https://github.com/user-attachments/assets/d461dcfb-5e6d-4a66-afdf-9f01e0a82ef8)
 
-Notebooks:
+**Notebooks:**
 mushrooms.csv - Mushroom data file 
 mushroom_classification.ipynb - code 
 write_up - full analysis
 
-Installation
+**Installation**
 All necessary imports are at the top of each notebook.
 
-Credits:
+**Credits:**  
 https://medium.com/@krisalay/feature-importance-in-decision-tree-8e60f2174717 (Accessed: 07 March 2024).
 
   Author: Fatih Karabiber Ph.D. in Computer Engineering and Fatih Karabiber Ph.D. in Computer Engineering (no date) Gini impurity, Learn Data Science - Tutorials, Books, Courses, and More. Available at: https://www.learndatasci.com/glossary/gini-impurity/ (Accessed: 07 March 2024). 
@@ -26,5 +26,5 @@ https://medium.com/@krisalay/feature-importance-in-decision-tree-8e60f2174717 (A
 ![image](https://github.com/user-attachments/assets/d509179c-132d-4336-b6eb-793bb9cc4459)
 
 
-LLM Disclaimer
+**LLM Disclaimer**
 Throughout this work LLMs have been used for help with working through errors, explanation of code/processes and occasionally for writing code. It has been cited where LLM code has been used.
