@@ -7,9 +7,9 @@ You can read the full break down and analysis of this project in the 'write_up' 
 **Dataset:** https://www.kaggle.com/datasets/uciml/mushroom-classification https://github.com/user-attachments/assets/d461dcfb-5e6d-4a66-afdf-9f01e0a82ef8 
 
 **Notebooks:**
-mushrooms.csv - Mushroom data file 
-mushroom_classification.ipynb - code 
-write_up - full analysis
+- mushrooms.csv - Mushroom data file 
+- mushroom_classification.ipynb - code 
+- write_up - full analysis
 
 **Installation**
 All necessary imports are at the top of each notebook.
