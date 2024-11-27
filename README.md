@@ -4,7 +4,7 @@ This project explores using decision tress for classificaiton.
 
 You can read the full break down and analysis of this project in the 'write_up' file. 
 
-**Dataset:** https://www.kaggle.com/datasets/uciml/mushroom-classification ![image](https://github.com/user-attachments/assets/d461dcfb-5e6d-4a66-afdf-9f01e0a82ef8)
+**Dataset:** https://www.kaggle.com/datasets/uciml/mushroom-classification https://github.com/user-attachments/assets/d461dcfb-5e6d-4a66-afdf-9f01e0a82ef8 
 
 **Notebooks:**
 mushrooms.csv - Mushroom data file 
