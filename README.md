@@ -1,5 +1,5 @@
-# mushroom_classification
-Mushroom Classification Project
+# Mushroom Classification Project
+
 This project explores using decision tress for classificaiton. 
 
 You can read the full break down and analysis of this project in the 'write_up' file. 
